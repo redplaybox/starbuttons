@@ -337,5 +337,21 @@
                 "to": 1451.75
             }
         }
+    },
+    {
+        "name": "hoihoihoi~",
+        "name_l10n": {
+            "zh": "hoihoihoi~",
+            "ja": "hoihoihoi~"
+        },
+        "file": "H1D_xTnXvSE--1526--1544.24.mp3",
+        "metadata": {
+            "site": "youtube",
+            "identifier": "H1D_xTnXvSE",
+            "time": {
+                "from": 1526,
+                "to": 1544.24
+            }
+        }
     }
 ]
